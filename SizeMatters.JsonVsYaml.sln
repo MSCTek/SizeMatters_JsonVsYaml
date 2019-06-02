@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SizeMatters.JsonVsYaml", "SizeMatters.JsonVsYaml.csproj", "{8D3D1E43-6514-4F45-997D-3CCAB8C8E0C8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6370603C-FED9-4C54-9ACA-6C86ABDC68AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D3D1E43-6514-4F45-997D-3CCAB8C8E0C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D3D1E43-6514-4F45-997D-3CCAB8C8E0C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D3D1E43-6514-4F45-997D-3CCAB8C8E0C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D3D1E43-6514-4F45-997D-3CCAB8C8E0C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DB2ECAF-E2F9-42EA-8309-8A1CB3613433}
+	EndGlobalSection
+EndGlobal
