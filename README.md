@@ -7,7 +7,7 @@ It compares using JSON and YAML output formats.
 
 This post also highlights the output file size difference between using classes in the System.IO.Compression namespace versus the DotNetZip NuGet package.
 - [System.IO.Compression](https://docs.microsoft.com/en-us/dotnet/api/system.io.compression) 
-- [DotNetZip](https://github.com/haf/DotNetZip.Semverd).
+- [DotNetZip](https://github.com/haf/DotNetZip.Semverd)
 
 ## Straight to the Point
 
